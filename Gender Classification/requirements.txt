@@ -1,3 +1,5 @@
+Tools & Libraries used : 
+
 jupyter
 pandas
 numpy
@@ -10,3 +12,16 @@ torchsummary
 tqdm
 scikit-learn
 pillow
+
+
+TO SET UP THE LIBRARIES RUN THE FOLOWING COMMAND:- pip install torch torchvision opencv-python pillow pandas numpy scikit-learn seaborn matplotlib tqdm
+
+torch — Core PyTorch library used for building, training, and running deep learning models.
+torchvision — Provides pretrained computer vision models, image datasets, and image transformation utilities.
+opencv-python — Used for image processing, computer vision operations, and handling image/video data.
+pillow — Python imaging library used for opening, editing, and manipulating images.
+pandas — Data analysis library used for handling structured and tabular data.
+numpy — Numerical computing library used for arrays, matrix operations, and mathematical computations.
+scikit-learn — Machine learning utility library used for evaluation metrics, preprocessing, and classical ML tools.
+seaborn — Statistical data visualization library built on matplotlib for creating attractive plots and graphs.
+matplotlib — Plotting library used for graphs, charts, and visualizing training results.
