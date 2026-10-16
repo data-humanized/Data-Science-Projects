@@ -1,5 +1,5 @@
 {
-  "editor.semanticHighlighting.enabled": true,
+  
   "editor.semanticTokenColorCustomizations": {
   "enabled": true,
   "rules": {
@@ -106,7 +106,6 @@
       { "scope": ["entity.name.tag"], "settings": { "foreground": "#81A1C1" } },
       { "scope": ["entity.other.attribute-name"], "settings": { "foreground": "#8FBCBB" } },
       { "scope": ["support.type.property-name", "meta.object-literal.key"], "settings": { "foreground": "#A9C1C9" } },
-      "editor.stickyTabStops": true,
       { "scope": ["invalid"], "settings": { "foreground": "#B5636C" } },
       { "scope": ["markup.heading"], "settings": { "foreground": "#86B3C0", "fontStyle": "bold" } },
       { "scope": ["markup.inline.raw", "markup.fenced_code"], "settings": { "foreground": "#9DB28F" } }
@@ -121,6 +120,7 @@
   "editor.tabSize": 2,
   "chat.disableAIFeatures": true,
   "workbench.iconTheme": "gruvbox-material-icon-theme",
-  "editor.minimap.enabled": false
-
+  "editor.minimap.enabled": false,
+  "editor.stickyTabStops": true,,
+  "editor.semanticHighlighting.enabled": true,
 }
