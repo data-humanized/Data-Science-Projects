@@ -123,4 +123,6 @@
   "editor.minimap.enabled": false,
   "editor.stickyTabStops": true,,
   "editor.semanticHighlighting.enabled": true,
+  "python.REPL.sendToNativeREPL": true      // This will let you run selected python script,
+                                            // Select the script and use SHift + Enter
 }
