@@ -1,3 +1,5 @@
+// Press Ctrl + Shift + P and search user Setting Json file and paster the following code
+
 {
   
   "editor.semanticTokenColorCustomizations": {
@@ -111,7 +113,7 @@
       { "scope": ["markup.inline.raw", "markup.fenced_code"], "settings": { "foreground": "#9DB28F" } }
     ]
   },
-  "workbench.colorTheme": "Atom Material Theme",
+  "workbench.colorTheme": "Atom Material Theme",  // Install this theme via extensions if error occures
   "editor.fontSize": 16.7,
   "terminal.integrated.fontSize": 16,
   "debug.terminal.clearBeforeReusing": true,
@@ -119,9 +121,9 @@
   "editor.renderWhitespace": "boundary",
   "editor.tabSize": 2,
   "chat.disableAIFeatures": true,
-  "workbench.iconTheme": "gruvbox-material-icon-theme",
+  "workbench.iconTheme": "gruvbox-material-icon-theme", // Have to install this icon pack via extensions
   "editor.minimap.enabled": false,
-  "editor.stickyTabStops": true,,
+  "editor.stickyTabStops": true,
   "editor.semanticHighlighting.enabled": true,
   "python.REPL.sendToNativeREPL": true      // This will let you run selected python script,
                                             // Select the script and use SHift + Enter
